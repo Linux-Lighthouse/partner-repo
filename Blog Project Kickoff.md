@@ -1,6 +1,6 @@
 # Linux Lighthouse Blog
 
-The blog is a starting web presence to present our project in a fast but authentic way. Rather than run in stealth mode or operate solely on the GitHub repos and Discord chats. We need a place to point new team members and potential funding to our mission. We will build the platform as a separate site and combine them as needed. 
+The blog is a starting web presence to present or project in a fast but authentic way. Rather than run in stealth mode or operate solely on the GitHub repos and Discord chats. We need a place to point new team members and potential funders to our mission. We will build the platform as a separate site and combine them as needed. 
 
 ## Features
 
@@ -10,11 +10,11 @@ The blog is a starting web presence to present our project in a fast but authent
 	    - Follows style guidelines
     - Links to the Organization on GitHub
     - Links to everyone's social in footer
-    - Links to prominent sponsors in footer
+    - Links to prominant sponsors in footer
     - Responsive design - Mobile First
 
     - Latest posts center focus
-    - Links to funding options (Top Right) - Start a Gofundme or other - We are preapprove for GitHub sponsors once we show our project moving forward. 
+    - Links to funding options (Top Right) - Start a Gofundme or other - We are preapproved for GitHub sponsors once we show our project moving forward. 
 - Nice to have
     - News letter sign up
     - RSS Feed
@@ -34,4 +34,3 @@ The blog is a starting web presence to present our project in a fast but authent
 
 - MIT fits just about every use case we have to date. 
 
-## Meeting Agenda

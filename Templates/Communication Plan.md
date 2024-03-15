@@ -1,0 +1,12 @@
+Certainly! [Communication cadence refers to the frequency and timing of communication between different members of a team or organization](https://gcestrategicconsulting.com/blog/communication-cadence) [1](https://gcestrategicconsulting.com/blog/communication-cadence)[2](https://acquira.com/how-many-meetings-is-too-many-meetings-a-guide-to-communication-cadence/). Here are some best practices for establishing a communication cadence:
+
+1. [**Regular and consistent**: Communication should be regular and consistent](https://gcestrategicconsulting.com/blog/communication-cadence) [1](https://gcestrategicconsulting.com/blog/communication-cadence).
+2. [**Clear and concise**: Communication should be clear and concise, avoiding ambiguity](https://gcestrategicconsulting.com/blog/communication-cadence) [1](https://gcestrategicconsulting.com/blog/communication-cadence).
+3. [**Set clear expectations**: Set clear expectations for communication, including the frequency and timing of communication](https://gcestrategicconsulting.com/blog/communication-cadence) [1](https://gcestrategicconsulting.com/blog/communication-cadence).
+4. [**Establish a rhythm**: Establish a rhythm and structure for information flows between team members, departments, and stakeholders](https://gcestrategicconsulting.com/blog/communication-cadence) [2](https://acquira.com/how-many-meetings-is-too-many-meetings-a-guide-to-communication-cadence/).
+
+[For example, you could schedule weekly check-ins with your client to discuss project progress and any issues that arise](https://www.forbes.com/sites/forbestechcouncil/2020/03/10/five-best-practices-for-communication-cadence/) [3](https://www.forbes.com/sites/forbestechcouncil/2020/03/10/five-best-practices-for-communication-cadence/). [You could also establish a regular communication cadence with your project team to ensure that everyone is informed of any changes or issues that arise during the project](https://www.forbes.com/sites/forbestechcouncil/2020/03/10/five-best-practices-for-communication-cadence/) [3](https://www.forbes.com/sites/forbestechcouncil/2020/03/10/five-best-practices-for-communication-cadence/).
+
+I hope this helps! Let me know if you have any other questions.
+
+#Build 

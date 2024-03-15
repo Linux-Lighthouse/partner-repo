@@ -1,0 +1,16 @@
+When evaluating a potential client, there are several factors to consider to ensure that they are a good fit for your business. Here are some tips to help you determine if a client is worth working with:
+
+1. **Determine what they value**: Ask potential clients about their values and goals to ensure that they align with your own. [Forbes suggests asking questions such as “What brands, companies or individuals do you seek to emulate when it comes to experience?” and “How would you define value?”](https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/18/five-questions-to-help-you-determine-what-your-clients-truly-value/) [1](https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/18/five-questions-to-help-you-determine-what-your-clients-truly-value/).
+    
+2. **Assess their fit**: Determine if the potential client is a good fit for your business by assessing their work style, principles, and expectations. [Forbes recommends monitoring how prospects behave during the sales discovery phase to determine if they are a process fit](https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/18/five-questions-to-help-you-determine-what-your-clients-truly-value/) [2](https://www.forbes.com/sites/forbesagencycouncil/2016/09/14/10-ways-to-determine-if-a-potential-client-is-the-right-fit-for-your-agency/).
+    
+3. **Evaluate their potential**: Identify prospects with real potential by looking at your current book of clients and identifying which consistently perform well. [Forbes suggests replicating the critical attributes of your key clients to find ideal prospects](https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/18/five-questions-to-help-you-determine-what-your-clients-truly-value/) [3](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/10/16-strategies-for-identifying-prospects-with-real-potential/).
+    
+4. **Check their reputation**: Check the potential client’s online reputation by reviewing their social media profiles and online reviews. [Vandelay Design recommends checking their existing website and asking for references](https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/18/five-questions-to-help-you-determine-what-your-clients-truly-value/) [4](https://www.vandelaydesign.com/evaluate-clients/).
+    
+5. **Assess their communication**: Evaluate the potential client’s communication style to ensure that it aligns with your own. [Forbes suggests asking questions such as “What are your preferred methods of communication?” and “How often would you like to receive updates?”](https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/18/five-questions-to-help-you-determine-what-your-clients-truly-value/) [1](https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/18/five-questions-to-help-you-determine-what-your-clients-truly-value/).
+    
+
+By considering these factors, you can determine if a potential client is worth working with. Remember to be persistent and keep refining your approach until you find the right fit. Good luck! 💻
+
+#Build #Marketing 

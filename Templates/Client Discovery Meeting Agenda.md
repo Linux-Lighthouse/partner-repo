@@ -6,7 +6,7 @@ Sure, here is a checklist for a discovery call with a client:
     
 3. **Introduce yourself and your company**: Start the call by introducing yourself and your company. Explain your role and how you can help the client.
     
-4. **Ask open-ended questions**: Ask open-ended questions to encourage the client to share their thoughts and ideas. Listen carefully to their responses and ask follow-up questions to clarify their needs. [[Discovery Meeting Questions]]
+4. **Ask open-ended questions**: Ask open-ended questions to encourage the client to share their thoughts and ideas. Listen carefully to their responses and ask follow-up questions to clarify their needs. [[Development/partner-repo/Templates/Discovery Meeting Questions]]
     
 5. **Discuss your solutions**: Share your solutions with the client and explain how they can help solve their business challenges. Be specific and provide examples of how your solutions have helped other clients.
     

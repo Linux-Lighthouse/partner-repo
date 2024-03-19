@@ -31,11 +31,11 @@ To build a Linux Knowledge Base of the best and most current Linux Learning reso
 
 | Name              | Role                            | Location   | Core working hours | Company                                                |
 | ----------------- | ------------------------------- | ---------- | ------------------ | ------------------------------------------------------ |
-| John Junkins      | Founder Legitimacy and Growth   | Chicago Il | 9AM - 5PM CST      | JunkDev - Liniux Lighthouse                            |
+| John Junkins      | Founder Legitimacy and Growth   | Chicago Il | 9AM - 5PM CST      | JunkDev - Linux Lighthouse                            |
 | Katherine Junkins | Administration and Operations   | Chicago Il | Saturdays          | Midwestern University Administration - Chicago Campus. |
 | Tyler             | Community and Marketing         |            |                    |                                                        |
 | Joe               | Technology and Curriculum       |            |                    |                                                        |
-| Alex              | Technology and Curriculom       |            |                    |                                                        |
+| Alex              | Technology and Curriculum       |            |                    |                                                        |
 | Al                | Non-Profit Expert - Public Good |            |                    | Center for Global Initiatives                          |
 | Rachel            | Non Profit Expert - Legal       |            |                    | Open Source Collective                                 |
 | Lauren            | Non Profit Expert - Finance     |            |                    | Open Source Collective                                 |

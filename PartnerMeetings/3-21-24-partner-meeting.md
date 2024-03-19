@@ -20,6 +20,10 @@
   3. Tasks
   4. Resources, Courses, Next Steps
   5. Review Funding Status Doc (Will add to this repo)
+  6. Move to public everything org....
+    a. Meetings on Discord Meeting channel
+    b. Repos Public including Meeting Notes
+    c. No members in Org until we need them. Everyone is a contributor until we need a board and staff etc. 
 
 ## Meeting Prep Action Items
 - Start the Resources Readme.md

@@ -10,11 +10,11 @@ The blog is a starting web presence to present or project in a fast but authenti
 	    - Follows style guidelines
     - Links to the Organization on GitHub
     - Links to everyone's social in footer
-    - Links to prominant sponsors in footer
+    - Links to prominent sponsors in footer
     - Responsive design - Mobile First
 
     - Latest posts center focus
-    - Links to funding options (Top Right) - Start a Gofundme or other - We are preapproved for GitHub sponsors once we show our project moving forward. 
+    - Links to funding options (Top Right) - Start a Gofundme or other - We are pre-approved for GitHub sponsors once we show our project moving forward. 
 - Nice to have
     - News letter sign up
     - RSS Feed
